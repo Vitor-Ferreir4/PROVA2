@@ -1,0 +1,36 @@
+.navbar{
+    list-style: none;
+    position: relative;
+    background-color: rgb(24, 113, 216);
+    color: white;
+    white-space: nowrap;
+    margin: 0 auto;
+    width: 1900px;
+}
+
+.navbar-nav{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    position: relative;
+    left: 750px;
+    gap: 35px;
+    font-weight: bold;
+}
+
+.senai{
+    position: relative;
+    top: 12px;
+}
+
+.navbar-link{
+    text-decoration: none;
+    color: white;
+    transition: 0.3s;
+    position: relative;
+}
+
+.navbar-link:hover{
+    text-decoration: underline;
+}

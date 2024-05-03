@@ -1,0 +1,32 @@
+.Home{
+    color: black;
+    margin-top: 270px;
+}
+
+.Sub{
+    font-size: 22px;
+}
+
+.Titulos{
+    position: relative;
+    bottom: 240px;
+}
+
+.Textos{
+    font-weight: bold;
+    color: darkblue;
+    font-size: 27px;
+    display: flex;
+    flex-direction: row;
+    gap: 92px;
+    position: relative;
+    left: 30px;
+}
+
+.Imagens{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}

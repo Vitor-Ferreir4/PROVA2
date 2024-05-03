@@ -1,0 +1,20 @@
+.footer{
+    background-color: rgb(24, 113, 216);
+    font-size: 20px;
+    white-space: nowrap;
+    position: relative;
+    top: 500px;
+    width: 10000px;
+    margin-bottom: 500px;
+}
+
+.sesi{
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+.footer-itens{
+    position: relative;
+    bottom: 50px;
+}

@@ -1,0 +1,16 @@
+.Titulo2{
+    color: black;
+    position: relative;
+    right: 750px;
+}
+
+.Paragrafo1{
+    color: black;
+    font-size: 20px;
+}
+
+.Linha1{
+    height: 150px;
+    background-color: darkblue;
+    width: 5000px;
+}
